@@ -1,0 +1,7 @@
+POST http://localhost:3333/subscriptions
+content-type: application/json
+
+{
+    "name": "Luiza",
+    "email": "luiza@email.com"
+}
